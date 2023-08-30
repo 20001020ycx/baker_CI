@@ -10,7 +10,11 @@ HOST_OS=linux
 
 TOKEN=AONIWJHSYQE4ABCL77ETGA3E57LDC
 
-DATASETSRCLOC=/home/ycx/code/yscope/bakerCIDocker/bigDatasets
+DATASETSRCLOC=/home/ycx/yscope/bakerCIDocker/bigDatasets
 DATASETDSTLOC=/home/bigDatasets
+
+GITHUBREPO=https://github.com/20001020ycx/clp
+
+RUNNERNAME=baker
 
 
